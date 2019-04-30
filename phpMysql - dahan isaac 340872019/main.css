@@ -1,0 +1,32 @@
+
+body{
+    font:open
+}
+
+
+.button{
+    padding:5px;
+}
+
+
+.id{
+width:60px;
+}
+
+.name{
+    width:300px;    
+}
+
+h1 a{
+    text-decoration: none;
+    color : black;
+}
+
+.form{
+margin :0 auto;
+width:80%;
+
+}
+#display{
+    font-size: 25px;
+}
